@@ -61,6 +61,6 @@
   ],
   "dependencies": {
     "babel-polyfill": "^6.23.0",
-    "v-math": "^0.1.3"
+    "v-math": "github:robert0609/v-math"
   }
 }
